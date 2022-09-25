@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-09-24 16:17:06.698742
+//Update:2022-09-25 14:19:21.844512
 
 {"key":"快播云","name":"快播云播","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
 {"key":"csp_biubiu_创艺影视","name":"创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json"},
