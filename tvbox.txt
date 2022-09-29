@@ -4,7 +4,7 @@
 //"spider":"http://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 "spider":"http://121.46.250.130:8080/ipfs/QmZFDWsm15DiH3WLb2WwgPb136tKPibvMoGKDT41aEpwfa?filename=XBiubiuLA4.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2JvbWJ3b3JtL3R2Ym94QG1hc3Rlci9saXZldHYudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYm9tYndvcm0vdHZib3gvbWFzdGVyL3R2Ym94LnR4dA=="]}]}],
 
 "sites":[
 {"key":"快播云","name":"快播云播","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
