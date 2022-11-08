@@ -1,5 +1,5 @@
 {
-//Update:2022-10-06 14:54:58.288313
+//Update:2022-10-07 14:54:48.300758
 
 "spider":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/res/XBiubiuLA4.PNG", //"spider":"http://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 
@@ -1661,19 +1661,7 @@
 {"name":"💡ckmov","type":1,"url":"https://www.ckmov.vip/api.php?url="},
 {"name":"💡H8","type":1,"url":"https://www.h8jx.com/jiexi.php?url="},
 {"name":"💡MUTV","type":1,"url":"https://jiexi.janan.net/jiexi/?url="},
-{"name":"💡MAO","type":1,"url":"https://www.mtosz.com/m3u8.php?url="},
-{"name":"💡盘古","type":1,"url":"https://www.pangujiexi.cc/jiexi.php?url="},
-{"name":"💡YiTV","type":1,"url":"https://jiexi.us/?url="},
-{"name":"💡星空","type":1,"url":"http://60jx.com/?url="},
-{"name":"💡17云","type":1,"url":"https://www.1717yun.com/jx/ty.php?url="},
-{"name":"💡4K","type":1,"url":"https://jx.4kdv.com/?url="},
-{"name":"💡云析","type":1,"url":"https://jx.yparse.com/index.php?url="},
-{"name":"💡8090","type":1,"url":"https://www.8090g.cn/?url="},
-{"name":"💡奇米","type":1,"url":"https://qimihe.com/?url="},
-{"name":"💡听乐","type":1,"url":"https://jx.dj6u.com/?url="},
-{"name":"💡52","type":1,"url":"https://vip.52jiexi.top/?url="},
-{"name":"💡180","type":1,"url":"https://jx.000180.top/jx/?url="},
-{"name":"麻花视频","type":1,"url":"https://humaosp.com/json.php?url="}
+{"name":"💡MAO","type":1,"url":"https://www.mtosz.com/m3u8.php?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
